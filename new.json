@@ -816,7 +816,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "hey": "hey"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1083,7 +1085,8 @@
             ]
           ]
         ]
-      }
+      },
+      "id": 3
     }
   ]
 }
